@@ -1,0 +1,17 @@
+#container {
+    width: 800px;
+    background-color: rgb(227, 196, 255);
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+.titleChange {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(60, 35, 104);
+    font-size: 60px;
+}
+
+#picture {
+    width: 500px;
+}
